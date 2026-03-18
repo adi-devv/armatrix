@@ -3,7 +3,7 @@
 A full-stack team directory for [armatrix.in](https://armatrix.in).
 
 **Live Links**
-- Frontend: https://armatrix-git-main-adi-devvs-projects.vercel.app
+- Frontend: https://armatrix-rho.vercel.app
 - Backend: https://armatrix.onrender.com
 
 ---
