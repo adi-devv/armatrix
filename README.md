@@ -1,10 +1,10 @@
 # Armatrix Team Page
 
-A full-stack team directory for [armatrix.in](https://armatrix.in) — built as part of the Software Development Internship assignment.
+A full-stack team directory for [armatrix.in](https://armatrix.in).
 
 **Live Links**
-- Frontend: _[add Vercel URL after deploy]_
-- Backend: _[add Render/Railway URL after deploy]_
+- Frontend: https://armatrix-git-main-adi-devvs-projects.vercel.app
+- Backend: https://armatrix.onrender.com
 
 ---
 
@@ -146,4 +146,4 @@ Open `http://localhost:3000` — it redirects to `/team`.
 
 ---
 
-Built by **Aadit Singal** for the Armatrix Software Development Internship.
+Built by **Aadit Singal**.
